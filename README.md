@@ -5,8 +5,8 @@ DeepLearning.ai contains five courses which can be taken on Coursera:
 
 1. Neural Networks and Deep Learning (complete)
 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (complete)
-3. Structuring Machine Learning Projects (work in progress)
-4. Convolutional Neural Networks
+3. Structuring Machine Learning Projects
+4. Convolutional Neural Networks (work in progress)
 5. Sequence Models
 
 You're welcome to use and improve this decks!
